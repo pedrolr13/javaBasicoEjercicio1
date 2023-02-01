@@ -1,0 +1,17 @@
+package ejercicio1;
+
+public class Main {
+    public static void main(String[] args){
+        int entero=8;
+        long num_largo=87878787;
+        double num_decimal=9.8;
+        boolean verdadero=true;
+        String texto="Hola mundo";
+
+        System.out.println(entero);
+        System.out.println(num_largo);
+        System.out.println(num_decimal);
+        System.out.println(verdadero);
+        System.out.println(texto);
+  }
+}
